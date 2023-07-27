@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Нелинейное уравнение", "Нелинейное уравнение\Нелинейное уравнение.csproj", "{4CA495C1-A841-4916-9246-448FEC5AB39C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Нелинейное уравнение  C++ (параллельное)", "Нелинейное уравнение  C++ (параллельное)\Нелинейное уравнение  C++ (параллельное).vcxproj", "{B21D0FF6-4292-43BE-B10D-DC104D8E0919}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CA495C1-A841-4916-9246-448FEC5AB39C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CA495C1-A841-4916-9246-448FEC5AB39C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CA495C1-A841-4916-9246-448FEC5AB39C}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{4CA495C1-A841-4916-9246-448FEC5AB39C}.Debug|x64.Build.0 = Debug|Any CPU
+		{4CA495C1-A841-4916-9246-448FEC5AB39C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{4CA495C1-A841-4916-9246-448FEC5AB39C}.Debug|x86.Build.0 = Debug|Any CPU
+		{4CA495C1-A841-4916-9246-448FEC5AB39C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CA495C1-A841-4916-9246-448FEC5AB39C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CA495C1-A841-4916-9246-448FEC5AB39C}.Release|x64.ActiveCfg = Release|Any CPU
+		{4CA495C1-A841-4916-9246-448FEC5AB39C}.Release|x64.Build.0 = Release|Any CPU
+		{4CA495C1-A841-4916-9246-448FEC5AB39C}.Release|x86.ActiveCfg = Release|Any CPU
+		{4CA495C1-A841-4916-9246-448FEC5AB39C}.Release|x86.Build.0 = Release|Any CPU
+		{B21D0FF6-4292-43BE-B10D-DC104D8E0919}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{B21D0FF6-4292-43BE-B10D-DC104D8E0919}.Debug|Any CPU.Build.0 = Debug|x64
+		{B21D0FF6-4292-43BE-B10D-DC104D8E0919}.Debug|x64.ActiveCfg = Debug|x64
+		{B21D0FF6-4292-43BE-B10D-DC104D8E0919}.Debug|x64.Build.0 = Debug|x64
+		{B21D0FF6-4292-43BE-B10D-DC104D8E0919}.Debug|x86.ActiveCfg = Debug|Win32
+		{B21D0FF6-4292-43BE-B10D-DC104D8E0919}.Debug|x86.Build.0 = Debug|Win32
+		{B21D0FF6-4292-43BE-B10D-DC104D8E0919}.Release|Any CPU.ActiveCfg = Release|x64
+		{B21D0FF6-4292-43BE-B10D-DC104D8E0919}.Release|Any CPU.Build.0 = Release|x64
+		{B21D0FF6-4292-43BE-B10D-DC104D8E0919}.Release|x64.ActiveCfg = Release|x64
+		{B21D0FF6-4292-43BE-B10D-DC104D8E0919}.Release|x64.Build.0 = Release|x64
+		{B21D0FF6-4292-43BE-B10D-DC104D8E0919}.Release|x86.ActiveCfg = Release|Win32
+		{B21D0FF6-4292-43BE-B10D-DC104D8E0919}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A79E2C18-FAF3-4475-AA9A-9E1AF1C8C531}
+	EndGlobalSection
+EndGlobal
